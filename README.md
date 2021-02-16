@@ -1,0 +1,1 @@
+This is god's first git project!
